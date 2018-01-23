@@ -38,3 +38,7 @@ password = D226
 username = 82094
 password = 82094
 ```
+
+## Developer
+### Dhitya Pamungkas [155410007]
+### Arif Riyadi [1555410098]
